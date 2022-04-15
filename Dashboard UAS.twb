@@ -3961,8 +3961,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='21' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98244' id='20' param='vert' type-v2='layout-flow' w='98966' x='517' y='878'>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98244' id='18' param='vert' type-v2='layout-flow' w='98966' x='517' y='878'>
                 <zone fixed-size='280' h='49123' id='3' is-fixed='true' name='Peta Company di Indonesia &amp; India' w='44315' x='517' y='878'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
